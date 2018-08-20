@@ -1,0 +1,10 @@
+C:\Users\eogan\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\eogan\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\eogan\source\repos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.FileEncrypter.resources
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.cache
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\eogan\source\repos\FileIO\FileIO\obj\Debug\FileIO.pdb
